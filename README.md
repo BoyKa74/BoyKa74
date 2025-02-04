@@ -41,9 +41,9 @@ About Me:
 
 ---
 
-### 📊 TGitHub Stats  
+### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoyKa74&show_icons=true&theme=radical)  
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=BoyKa74&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyKa74&layout=compact&theme=radical))  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyKa74&layout=compact&theme=radical)   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoyKa74&theme=dark)  
 
 ---
