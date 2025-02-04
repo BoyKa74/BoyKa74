@@ -1,56 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+### 👋 Xin chào! Tôi là Mai Văn Anh Vủ  
+💻 Lập trình viên | 🚀 Đam mê công nghệ  
 
+---
 
-</head>
-<body>
-  <h1 class="center">Hi 👋, I'm Mai Văn Anh Vủ</h1>
-  <h3 class="center">A passionate frontend developer from Việt Nam</h3>
+### 🔭 Hiện tại tôi đang làm việc tại:  
+- 🏫 **DongA University**  
+- 🌱 Đang học **C++, Node.js, Spring Boot, Python**  
+- 👯 Tìm cơ hội thực tập và làm việc tại **Đà Nẵng**  
+- 🤝 Tìm sự hỗ trợ trong việc tìm kiếm công việc tại **Đà Nẵng**  
 
-  <ul>
-    <li>🔭 I’m currently working at <strong>DongA University.</strong></li>
-    <li>🌱 I’m currently learning <strong>C++, Nodejs, Spring Boot, Python.</strong></li>
-    <li>👯 I am looking for companies to intern and work at in <strong>Da Nang.</strong></li>
-    <li>🤝 I’m looking for help with finding a job or internship in <strong>Da Nang.</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/maivuksit" target="_blank">GitHub</a>.</li>
-    <li>💬 Ask me about <strong>C++, Nodejs.</strong></li>
-    <li>📫 How to reach me: <a href="mailto:maivuksit@gmail.com">maivuksit@gmail.com</a></li>
-  </ul>
+📫 Liên hệ với tôi: **[maivuksit@gmail.com](mailto:maivuksit@gmail.com)**  
 
-  <h3>Connect with me:</h3>
-  <p class="social-icons">
-    <a href="https://github.com/BoyKa74" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdZlszhihSfJBfoXkpJtOvDk9p_sskS4rSQ&s" alt="Dev.to" height="30" width="40"></a>
-    <a href="https://dev.to/fish_dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40"></a>
-    <a href="https://www.linkedin.com/in/mai-văn-anh-vủ-8793512bb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-    <a href="https://stackoverflow.com/users/29405844/mai-văn-anh-vủ" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40"></a>
-    <a href="https://web.facebook.com/mvav2k4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"></a>
-    <a href="https://www.instagram.com/oldsouls_2k4dz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
-    <a href="https://www.hackerrank.com/maivuksit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"></a>
-  </p>
-  
-  <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"></a>
-    <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
-  </p>
+---
 
-  <h3>Support:</h3>
-  <p><a href="https://ko-fi.com/Fish_Dev" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"></a></p>
-</body>
-</html>
+### 🌐 Kết nối với tôi  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BoyKa74)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mai-văn-anh-vủ-8793512bb)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://web.facebook.com/mvav2k4)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/oldsouls_2k4dz)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/maivuksit)  
+
+---
+
+### 🛠 Ngôn ngữ & Công cụ  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
+
+---
+
+### 📊 Thống kê GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoyKa74&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyKa74&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoyKa74&theme=dark)  
+
+---
+
+### ☕ Hỗ trợ tôi  
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-BF005C?style=for-the-badge&logo=kofi)](https://ko-fi.com/Fish_Dev)  
+
+🔥 Cảm ơn vì đã ghé thăm! Nếu thấy hay, hãy ⭐ repository này nhé! 😃  
