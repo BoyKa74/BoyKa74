@@ -62,6 +62,6 @@ About Me:
 ---
 
 ### ⭐️ From  
-[![Fish-Dev](https://img.shields.io/badge/Ko--fi-BF005C?style=for-the-badge&logo=kofi)](https://github.com/BoyKa74)  
+[![Fish-Dev][(https://img.shields.io/badge/Ko--fi-BF005C?style=for-the-badge&logo=kofi)](https://github.com/BoyKa74)  
 
 🔥 Cảm ơn vì đã ghé thăm! Nếu thấy hay, hãy ⭐ repository này nhé! 😃  
