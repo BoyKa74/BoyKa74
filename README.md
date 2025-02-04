@@ -1,7 +1,8 @@
-### 👋 Xin chào! Tôi là Mai Văn Anh Vủ  
+### 👋 Hi there! I am Mai Văn Anh Vủ (Fish)
 💻 Lập trình viên | 🚀 Đam mê công nghệ  
 
 ---
+Welcome to my GitHub profile! Here's a little about me:
 
 ### 🔭 Hiện tại tôi đang làm việc tại:  
 - 🏫 **DongA University**  
