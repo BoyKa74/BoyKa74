@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 About Me:
-### 🔭 Hiện tại tôi đang làm việc tại:  
+### 🔭 I am currently working at:  
 - 🏫 **🎓 Software Engineering Student at Viet Nam DongA University**
 - 💻 Passionate about crafting scalable, efficient, and innovative software solutions.
 - 🌱 Currently learning **C++, Node.js, Spring Boot, Python**  
