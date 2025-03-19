@@ -19,7 +19,7 @@ About Me:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Frameworks
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -62,6 +62,6 @@ About Me:
 ---
 
 ### ⭐️ From  
-[![Fish-Dev]([[https://img.shields.io/badge/Ko--fi-BF005C?style=for-the-badge&logo=kofi](https://png.pngtree.com/png-vector/20240613/ourlarge/pngtree-businessman-avatar-in-circular-frame-illustration-png-image_12732702.png](https://hoanghamobile.com/tin-tuc/wp-content/webp-express/webp-images/uploads/2024/05/anh-viet-nam-1.jpg.webp)))](https://github.com/BoyKa74)  
+[![Fish-Dev]([[https://png.pngtree.com/png-vector/20240613/ourlarge/pngtree-businessman-avatar-in-circular-frame-illustration-png-image_12732702.png](https://png.pngtree.com/png-vector/20240613/ourlarge/pngtree-businessman-avatar-in-circular-frame-illustration-png-image_12732702.png](https://hoanghamobile.com/tin-tuc/wp-content/webp-express/webp-images/uploads/2024/05/anh-viet-nam-1.jpg.webp)))](https://github.com/BoyKa74)  
 
 🔥 Cảm ơn vì đã ghé thăm! Nếu thấy hay, hãy ⭐ repository này nhé! 😃  
