@@ -88,7 +88,7 @@ About Me:
 
 ---
 
-📫 Contact with me: **[maimaivananhvu.dev@gmail.com](mailto:maivananhvu.dev@gmail.com)**  
+📫 Contact with me: **[maivananhvu.dev@gmail.com](mailto:maivananhvu.dev@gmail.com)**  
 
 ---
 
