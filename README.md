@@ -1,15 +1,23 @@
-### 👋 Hi there! I am Mai Văn Anh Vủ (Fish)
-💻 Developer | 🚀  Always Learning & Innovating
+### 👋 Hi there! I’m Mai Văn Anh Vủ (Fish)  
+💻 Developer | 🚀 Technical Lead | 🌍 Lifelong Learner  
 
 ---
-Welcome to my GitHub profile! Here's a little about me:
 
-About Me:
-### 🔭 I am currently working at:  
-- 🏫 **🎓 Software Engineering Student at Viet Nam DongA University**
-- 💻 Passionate about crafting scalable, efficient, and innovative software solutions.
-- 🌱 Currently learning **C++, Node.js, Spring Boot, Python**  
-- 🔍 Seeking internship and job opportunities, as well as support in finding employment in Da Nang. 
+Welcome to my GitHub profile! Here’s a little about me:  
+
+### 🔭 Current Work  
+- 👨‍💻 **Technical Lead** at [VluxAI](https://vluxai.com/)  
+- 💡 **Developer** at [HighScores.ai](https://highscores.ai/)  
+- 🤝 Collaborating with multiple partners and projects worldwide  
+
+### 🎓 Education  
+- 🏫 **Software Engineering Student** at Viet Nam DongA University  
+
+### 💡 About Me  
+- 💻 Passionate about building **scalable, efficient, and innovative software solutions**  
+- 🌱 Currently focusing on **Machine Learning & AI**  
+- 🌍 Open to **global opportunities, collaborations, and internships**  
+
 
 ## 🛠 Technologies & Tools
 
