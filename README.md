@@ -102,7 +102,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-FFAD1F?style=for-the-badge&logo=x&logoColor=black)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-4D6BFE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white)
+![DeepSeek AI](https://img.shields.io/badge/DeepSeek_AI-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
