@@ -16,7 +16,8 @@ Welcome to my GitHub profile! Here’s a little about me:
 ### 💡 About Me  
 - 💻 Passionate about building **scalable, efficient, and innovative software solutions**  
 - 🌱 Currently focusing on **Machine Learning & AI**  
-- 🌍 Open to **global opportunities, collaborations, and internships**  
+- 🌍 Open to **global opportunities, collaborations, and internships**
+- 🎯 Specialized in converting Figma designs into pixel-perfect, responsive web applications
 
 
 ## 🛠 Technologies & Tools
@@ -72,13 +73,13 @@ Welcome to my GitHub profile! Here’s a little about me:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00A0FF?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
