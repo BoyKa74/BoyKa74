@@ -2,8 +2,9 @@
 
 💻 Developer | 🚀 Technical Lead | 🌍 Lifelong Learner
 
-Full-Stack Developer with experience in Web & Mobile Applications,
-Figma Design, AI Development, Database Architecture, and Deployment & Hosting.
+⚡ Full-Stack Developer  
+🌐 Web Development | 📱 Mobile Apps | 🎨 Figma Design  
+🤖 AI Development | 🗄️ Database Architecture | 🚀 Deployment & Hosting
 
 ---
 
