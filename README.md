@@ -1,5 +1,9 @@
-### 👋 Hi there! I’m Mai Văn Anh Vủ (Fish)  
-💻 Developer | 🚀 Technical Lead | 🌍 Lifelong Learner  
+👋 Hi there! I’m Mai Văn Anh Vủ (Fish)
+
+💻 Developer | 🚀 Technical Lead | 🌍 Lifelong Learner
+
+Full-Stack Developer with experience in Web & Mobile Applications,
+Figma Design, AI Development, Database Architecture, and Deployment & Hosting.
 
 ---
 
