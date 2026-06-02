@@ -10,7 +10,7 @@
 
 Welcome to my GitHub profile! Here’s a little about me:  
 
-### 🔭 Current Work  
+### 🔭 Past Experience  
 - 👨‍💻 **Technical Lead** at [VluxAI](https://vluxai.com/)  
 - 💡 **Developer** at [HighScores.ai](https://highscores.ai/)  
 - 🤝 Collaborating with multiple partners and projects worldwide  
