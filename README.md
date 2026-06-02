@@ -104,12 +104,13 @@ Welcome to my GitHub profile! Here’s a little about me:
 ---
 
 ### 🤖 AI Tools
+![Claude](https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-FFAD1F?style=for-the-badge&logo=x&logoColor=black)
 ![DeepSeek AI](https://img.shields.io/badge/DeepSeek_AI-000000?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
