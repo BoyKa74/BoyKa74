@@ -124,8 +124,22 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 
 ---
+ 
+## 📫 Contact Me
 
-📫 Contact with me: **[maivananhvu.dev@gmail.com](mailto:maivananhvu.dev@gmail.com)**  
+📧 Email: maivananhvu.dev@gmail.com
+
+💬 WhatsApp: +84 865 427 034
+
+✈️ Telegram: @865427034
+
+📘 Facebook: https://www.facebook.com/MVAV2k4
+
+📸 Instagram: https://www.instagram.com/oldsouls_04/
+
+💻 GitHub: https://github.com/BoyKa74
+
+🌐 Portfolio: https://upwork.com/freelancers/vudev
 
 ---
 
