@@ -127,28 +127,24 @@ Welcome to my GitHub profile! Here’s a little about me:
  
 ## 📫 Contact Me
 
-📧 Email: maivananhvu.dev@gmail.com
+[![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maivananhvu.dev@gmail.com) maivananhvu.dev@gmail.com
 
-💬 WhatsApp: +84 865 427 034
+[![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84865427034) +84 865 427 034
 
-✈️ Telegram: @865427034
+[![Telegram](https://img.shields.io/badge/Message-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/865427034) @865427034
 
-📘 Facebook: https://www.facebook.com/MVAV2k4
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://web.facebook.com/mvav2k4)   https://www.facebook.com/MVAV2k4
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/oldsouls_2k4dz) 📸 Instagram: https://www.instagram.com/oldsouls_04/
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/oldsouls_2k4dz)  https://www.instagram.com/oldsouls_04/
 
-💻 GitHub: https://github.com/BoyKa74
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BoyKa74)  https://github.com/BoyKa74
 
-🌐 Portfolio: https://upwork.com/freelancers/vudev
+[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/vudev) https://upwork.com/freelancers/vudev
 
----
-
-### 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BoyKa74)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vudev/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://web.facebook.com/mvav2k4)  
  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/maivuksit)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/maivuksit) 
+  
 
 ---
 
