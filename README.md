@@ -131,7 +131,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84865427034) +84 865 427 034
 
-[![Telegram](https://img.shields.io/badge/Message-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/865427034) @865427034
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/865427034) @865427034
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://web.facebook.com/mvav2k4)   https://www.facebook.com/MVAV2k4
 
