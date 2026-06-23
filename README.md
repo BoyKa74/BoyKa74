@@ -135,7 +135,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 📘 Facebook: https://www.facebook.com/MVAV2k4
 
-📸 Instagram: https://www.instagram.com/oldsouls_04/
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/oldsouls_2k4dz) 📸 Instagram: https://www.instagram.com/oldsouls_04/
 
 💻 GitHub: https://github.com/BoyKa74
 
@@ -147,7 +147,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BoyKa74)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vudev/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://web.facebook.com/mvav2k4)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/oldsouls_2k4dz)  
+ 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/maivuksit)  
 
 ---
