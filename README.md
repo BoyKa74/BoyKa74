@@ -127,9 +127,9 @@ Welcome to my GitHub profile! Here’s a little about me:
  
 ## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maivananhvu.dev@gmail.com) maivananhvu.dev@gmail.com
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maivananhvu.dev@gmail.com) maivananhvu.dev@gmail.com
 
-[![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84865427034) +84 865 427 034
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84865427034) +84 865 427 034
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/865427034) @865427034
 
@@ -139,7 +139,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BoyKa74)  https://github.com/BoyKa74
 
-[![Upwork](https://img.shields.io/badge/Hire_Me-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/vudev) https://upwork.com/freelancers/vudev
+[![Upwork](https://img.shields.io/badge/Hire_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/vudev) https://upwork.com/freelancers/vudev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vudev/)  https://www.linkedin.com/in/vudev/
  
