@@ -48,7 +48,9 @@
 
 🐞 Bug Fixing & Performance Optimization
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 Welcome to my GitHub profile! Here’s a little about me:  
 
@@ -182,7 +184,9 @@ Welcome to my GitHub profile! Here’s a little about me:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoyKa74&theme=dark)
 
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
  
 ## 📫 Contact Me
 
@@ -205,10 +209,14 @@ Welcome to my GitHub profile! Here’s a little about me:
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/maivuksit) 
   
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <div align="center">
 
@@ -230,8 +238,13 @@ Have a wonderful day! 🚀
 
 </div>
 
----
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <div align="center">
 
