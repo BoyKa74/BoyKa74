@@ -198,8 +198,6 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ---
 
-### ⭐️ From  
-[![Fish-Dev]([[https://png.pngtree.com/png-vector/20240613/ourlarge/pngtree-businessman-avatar-in-circular-frame-illustration-png-image_12732702.png](https://png.pngtree.com/png-vector/20240613/ourlarge/pngtree-businessman-avatar-in-circular-frame-illustration-png-image_12732702.png](https://hoanghamobile.com/tin-tuc/wp-content/webp-express/webp-images/uploads/2024/05/anh-viet-nam-1.jpg.webp)))](https://github.com/BoyKa74)  
 
 🔥 Cảm ơn vì đã ghé thăm! Nếu thấy hay, hãy ⭐ repository này nhé!
 Thanks you very much 😃 
