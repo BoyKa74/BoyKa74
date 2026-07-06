@@ -208,10 +208,28 @@ Welcome to my GitHub profile! Here’s a little about me:
 ---
 
 
-🔥 Cảm ơn vì đã ghé thăm! Nếu thấy hay, hãy ⭐ repository này nhé!
-Thanks you very much 😃 
 ---
-I come from QuangTri. I love VietNam  ❤️
+
+<div align="center">
+
+## ❤️ Thanks for Visiting!
+
+⭐ If you found something useful, feel free to star my repositories.
+
+🤝 Open to freelance projects, collaborations, and global opportunities.
+
+⚠️ Please respect my work.  
+Please do not copy, redistribute, or reuse my GitHub profile, portfolio, or projects without my permission.
+
+⚠️ Vui lòng tôn trọng công sức của mình.  
+**Xin đừng sao chép (copy), sử dụng lại hoặc đăng tải lại GitHub, Portfolio hay các dự án của mình khi chưa có sự cho phép.**
+
+🇻🇳 Proudly built with ❤️ from Quang Tri, Vietnam.
+
+Have a wonderful day! 🚀
+
+</div>
+
 ---
 ---
 
