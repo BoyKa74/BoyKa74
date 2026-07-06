@@ -176,14 +176,11 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ### 📊 GitHub Stats  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoyKa74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyKa74&layout=compact&langs_count=8&theme=tokyonight"/> 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BoyKa74&theme=dark)
 
 
