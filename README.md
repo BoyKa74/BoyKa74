@@ -228,3 +228,6 @@ I come from QuangTri. I love VietNam  ❤️
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7c3aed,100:0ea5e9"/>
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BoyKa74/BoyKa74/main/Fish_Dev.github.io/AnhVu.png" width="100%" alt="Anh Vu Banner1">
+</div>
