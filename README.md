@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257464-9b139f2f-67f4-4d6b-b3d4-8e7d2b91e6df.gif" width="180">
 
-# 👋 Hi, I'm Mai Văn Anh Vũ (Fish)
+# 👋 Hi, I'm Mai Văn Anh Vủ (Fish)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Technical+Lead;React+%7C+Next.js+%7C+Node.js;Python+%7C+AI+Developer;Open+for+Global+Opportunities"/>
 
@@ -21,9 +21,7 @@
 </div>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-042f4f57-450a-48b9-8a8f-52d5fdd0f041.gif" width="100%">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 👋 Hi there! I’m Mai Văn Anh Vủ (Fish)
