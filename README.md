@@ -17,6 +17,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/BoyKa74/BoyKa74/main/Fish_Dev.github.io/MaiVanAnhVu.png" width="100%" alt="Mai Van Anh Vu Banner">
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284103-0b7f6d7e-3c89-46f0-b6d8-95f4e6d8f9c5.gif" width="100%">
 </div>
 
