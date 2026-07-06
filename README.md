@@ -1,3 +1,29 @@
+<!--==================== Animated Header ====================-->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,100:7c3aed&text=Mai%20Van%20Anh%20Vu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Developer%20|%20Technical%20Lead&descAlignY=62"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257464-9b139f2f-67f4-4d6b-b3d4-8e7d2b91e6df.gif" width="180">
+
+# 👋 Hi, I'm Mai Văn Anh Vũ (Fish)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Technical+Lead;React+%7C+Next.js+%7C+Node.js;Python+%7C+AI+Developer;Open+for+Global+Opportunities"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-042f4f57-450a-48b9-8a8f-52d5fdd0f041.gif" width="100%">
+
+</div>
+
 👋 Hi there! I’m Mai Văn Anh Vủ (Fish)
 
 💻 Developer | 🚀 Technical Lead | 🌍 Lifelong Learner
@@ -118,6 +144,15 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/BoyKa74/BoyKa74/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+---
+
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoyKa74&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyKa74&layout=compact&theme=radical)  
@@ -156,3 +191,26 @@ Welcome to my GitHub profile! Here’s a little about me:
 Thanks you very much 😃 
 ---
 I come from QuangTri. I love VietNam  ❤️
+---
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+awesome+together!;Always+learning.+Always+building.🚀"/>
+
+</div>
+
+<div align="center">
+
+> ### 💭 Quote of the Day
+>
+> **"Code is like humor. When you have to explain it, it's bad."**  
+> — **Cory House**
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7c3aed,100:0ea5e9"/>
+
+</div>
