@@ -45,6 +45,7 @@
 🎨 Figma → React / Next.js
 📄 PDF → Responsive Website
 🖼️ Adobe XD → HTML / React
+🐞 Bug Fixing & Performance Optimization
 
 ---
 
