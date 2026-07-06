@@ -165,6 +165,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 ![Snake animation](https://raw.githubusercontent.com/BoyKa74/BoyKa74/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
 ---
 
 ### 📊 GitHub Stats  
