@@ -24,13 +24,23 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-👋 Hi there! I’m Mai Văn Anh Vủ (Fish)
+⚡ Full-Stack Developer
 
-💻 Developer | 🚀 Technical Lead | 🌍 Lifelong Learner
+🌐 Custom Web Development
+📱 Cross-Platform Mobile Apps
+🎨 Pixel-Perfect UI from Figma
 
-⚡ Full-Stack Developer  
-🌐 Web Development | 📱 Mobile Apps | 🎨 Figma Design  
-🤖 AI Development | 🗄️ Database Architecture | 🚀 Deployment & Hosting
+🤖 AI-Powered Applications
+🗄️ Database Architecture
+☁️ Deployment & Cloud Hosting
+
+🔄 Website Migration
+🖥️ Website Cloning
+⚙️ Technology Stack Migration
+
+🎨 Figma → React / Next.js
+📄 PDF → Responsive Website
+🖼️ Adobe XD → HTML / React
 
 ---
 
