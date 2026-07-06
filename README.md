@@ -45,6 +45,7 @@
 🎨 Figma → React / Next.js
 📄 PDF → Responsive Website
 🖼️ Adobe XD → HTML / React
+
 🐞 Bug Fixing & Performance Optimization
 
 ---
@@ -224,8 +225,8 @@ I come from QuangTri. I love VietNam  ❤️
 
 > ### 💭 Quote of the Day
 >
-> **"Code is like humor. When you have to explain it, it's bad."**  
-> — **Cory House**
+> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.."**  
+> — **Martin Fowler**
 
 </div>
 
