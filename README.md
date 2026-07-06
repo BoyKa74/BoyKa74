@@ -10,9 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257464-9b139f2f-67f4-4d6b-b3d4-8e7d2b91e6df.gif" width="180">
 
-# 👋 Hi, I'm Mai Văn Anh Vủ (Fish)
+# 👋 Looking for a Full-Stack Developer Who Gets Things Done?
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Technical+Lead;React+%7C+Next.js+%7C+Node.js;Python+%7C+AI+Developer;Open+for+Global+Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00E7FF&center=true&vCenter=true&width=1200&lines=🌐+Custom+Web+Development;📱+Cross-Platform+Mobile+Apps;🎨+Pixel-Perfect+UI+from+Figma;🤖+AI-Powered+Applications;🗄️+Database+Architecture;☁️+Cloud+Deployment+%26+Hosting;🔄+Website+Migration;🖥️+Website+Cloning;⚙️+Technology+Stack+Migration;🎨+Figma+→+React+%2F+Next.js;📄+PDF+→+Responsive+Website;🖼️+Adobe+XD+→+HTML+%2F+React;🐞+Bug+Fixing+%26+Performance+Optimization;🚀+API+Integration+%26+Third-Party+Services;💳+Payment+Gateway+Integration;🔒+Authentication+%26+Security;⚡+Performance+Optimization;🌍+SEO-Friendly+%26+Responsive+Design;💼+Available+for+Freelance+%26+Long-Term+Projects"/>
 
 </div>
 
