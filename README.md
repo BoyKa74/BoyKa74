@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,100:7c3aed&text=Mai%20Van%20Anh%20Vu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Developer%20|%20Developer%20Mobile%20App&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,100:7c3aed&text=Mai%20Van%20Anh%20Vu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI%20Developer%20|%20Mobile%20App%20Developer&descAlignY=62"/>
 
 </div>
 
