@@ -188,19 +188,7 @@ Welcome to my GitHub profile! Here’s a little about me:
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
  
-## 📫 Contact Me
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maivananhvu.dev@gmail.com) maivananhvu.dev@gmail.com
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84865427034) +84 865 427 034
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/865427034) @865427034
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://web.facebook.com/mvav2k4)   https://www.facebook.com/MVAV2k4
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/oldsouls_2k4dz)  https://www.instagram.com/oldsouls_04/
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/BoyKa74)  https://github.com/BoyKa74
+## 📫 My achievements
 
 [![Upwork](https://img.shields.io/badge/Hire_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/vudev) https://upwork.com/freelancers/vudev
 
