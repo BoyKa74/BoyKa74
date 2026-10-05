@@ -143,7 +143,6 @@ Welcome to my GitHub profile! Here’s a little about me:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black)
 ![Crazy Domains](https://img.shields.io/badge/Crazy%20Domains-FF6600?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
